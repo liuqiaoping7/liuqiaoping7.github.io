@@ -209,3 +209,5 @@ def translation():
 Python对字符串等序列的操作极其简明；各方面应用的支持库非常丰富。对于编程者构建实时性要求不高的日常辅助工具非常方便。
 
 本例完整脚本代码可从[auto_google_translation](https://github.com/liuqiaoping7/auto_google_translation)fork或download。
+
+文章已转至 [Python应用-判断单词-合并换行-自动Google翻译文献](https://zhuanlan.zhihu.com/p/2023333553258153400)。
